@@ -1,48 +1,40 @@
 <div align="center">
-  <img src="https://media.giphy.com/media/your-gif-id/giphy.gif" width="100%" height="auto" />
+  <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExaWJoNjdzZHRrcmVnc25wemx3Z2hkZmc1bW1tbXdua3I4cmkzZTV4aSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/gImhu3RNlTk9yr0rph/giphy.gif" width="42%" />
 </div>
 
-<h1 align="center">Hi there, I'm [Your Name] 👋</h1>
+<h1 align="center">Hi there, I'm Colby 👋</h1>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/yourusername/"><img src="https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin" alt="LinkedIn Badge"/></a>
-  <a href="https://twitter.com/yourusername"><img src="https://img.shields.io/badge/Twitter-blue?style=flat-square&logo=twitter" alt="Twitter Badge"/></a>
-  <a href="https://yourwebsite.com"><img src="https://img.shields.io/badge/Website-green?style=flat-square" alt="Website Badge"/></a>
+  <a href="https://www.linkedin.com/in/colby-ackerman/"><img src="https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin" alt="LinkedIn Badge"/></a>
 </p>
 
 ---
 
 ### 👨‍💻 About Me:
-I am a [Your Job Title] based in [Your Location]. I have a passion for [Your Interests] and love to create innovative solutions.
+I am an unemployed based in St. Louis, MO. I have a passion for games and code, and love to create innovative solutions.
 
-- 🔭 I'm currently working on [Your Current Project]
-- 🌱 I'm currently learning [What You're Learning]
-- 👯 I'm looking to collaborate on [Type of Projects]
-- 🤔 I'm looking for help with [What You Need Help With]
-- 💬 Ask me about [Topics You're Knowledgeable About]
-- 📫 How to reach me: [Your Email]
-- 😄 Pronouns: [Your Pronouns]
-- ⚡ Fun fact: [A Fun Fact About You]
+- 🔭 I'm currently working on Rhyme Remarks
+- 🌱 I'm currently learning MongoDB.
+- 👯 I'm looking to collaborate on games and websites.
+- 🤔 I'm looking for help with artwork/application assets.
+- 💬 Ask me about 3D graphics programming.
+- 📫 How to reach me: colbyackerman@gmail.com
+- ⚡ Fun fact: I am a sarcastic know-it-all.
 
 ### 🛠️ Languages and Tools:
 
-[JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
-[Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python)
-[React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react)
-[Node.js](https://img.shields.io/badge/-Node.js-black?style=flat-square&logo=node.js)
-[MongoDB](https://img.shields.io/badge/-MongoDB-black?style=flat-square&logo=mongodb)
-<!-- Add or remove languages and tools as per your skills -->
+- TypeScript
+- Python
+- C/C++
+- Debian Linux
+- PostgreSQL
+- SQLite
+- SQL Server
+- Firebase
+- Bash
+- Powershell
+- Git
 
 ### 📈 GitHub Stats:
 
-[[YourName's GitHub stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)](https://github.com/yourusername/github-readme-stats)
-
-
-### 📚 Latest Blog Posts
-
-<!-- BLOG-POST-LIST:START -->
-- [Your Latest Blog Post Title](Your Blog Post URL)
-- [Another Blog Post Title](Another Blog Post URL)
-<!-- BLOG-POST-LIST:END -->
-
----
+[![YourName's GitHub stats](https://github-readme-stats.vercel.app/api?username=CSnackerman&show_icons=true&theme=radical)](https://github.com/CSnackerman/github-readme-stats)
