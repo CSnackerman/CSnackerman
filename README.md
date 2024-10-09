@@ -13,8 +13,8 @@
 ### 👨‍💻 About Me:
 I am an unemployed based in St. Louis, MO. I have a passion for games and code, and love to create innovative solutions.
 
-- 🔭 I'm currently working on Rhyme Remarks
-- 🌱 I'm currently learning MongoDB.
+- 🔭 I'm currently working on Bobber Blitz
+- 🌱 I'm currently learning Supabase & PostgreSQL.
 - 👯 I'm looking to collaborate on games and websites.
 - 🤔 I'm looking for help with artwork/application assets.
 - 💬 Ask me about 3D graphics programming.
@@ -25,12 +25,11 @@ I am an unemployed based in St. Louis, MO. I have a passion for games and code, 
 
 - TypeScript
 - Python
-- C/C++
 - Debian Linux
 - PostgreSQL
 - SQLite
 - SQL Server
-- Firebase
+- Supabase
 - Bash
 - Powershell
 - Git
